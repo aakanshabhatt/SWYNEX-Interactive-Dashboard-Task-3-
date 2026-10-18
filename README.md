@@ -21,7 +21,5 @@ An interactive employee analytics dashboard built using Microsoft Power BI to ex
 - Remote work distribution
 - Department and Region slicers for interactive filtering
 
-## Files
-- `Employee_Analytics_Dashboard.pbix` — interactive Power BI report
-- `Employee_Analytics_Dashboard.png` — dashboard preview
+
 
